@@ -1,0 +1,829 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ipv6blocks>
+  <ipv6block id="1">
+    <block>2001:250::/35</block>
+    <num>/35</num>
+    <descr>CERNET IPv6 Backbone</descr>
+  </ipv6block>
+  <ipv6block id="2">
+    <block>2001:250:2000::/35</block>
+    <num>/35</num>
+    <descr>CERNET IPv6 Backbone</descr>
+  </ipv6block>
+  <ipv6block id="3">
+    <block>2001:250:4000::/34</block>
+    <num>/34</num>
+    <descr>CERNET IPv6 Backbone</descr>
+  </ipv6block>
+  <ipv6block id="4">
+    <block>2001:250:8000::/33</block>
+    <num>/33</num>
+    <descr>CERNET IPv6 Backbone</descr>
+  </ipv6block>
+  <ipv6block id="5">
+    <block>2001:c68::/32</block>
+    <num>/32</num>
+    <descr>China Telecom</descr>
+  </ipv6block>
+  <ipv6block id="6">
+    <block>2001:cc0::/32</block>
+    <num>/32</num>
+    <descr>China Science and Technology Network</descr>
+  </ipv6block>
+  <ipv6block id="7">
+    <block>2001:7fa:5::/48</block>
+    <num>/48</num>
+    <descr>China Next Generation Internet Beijing IX</descr>
+  </ipv6block>
+  <ipv6block id="8">
+    <block>2001:da8::/32</block>
+    <num>/32</num>
+    <descr>China Next Generation Internet CERNET2</descr>
+  </ipv6block>
+  <ipv6block id="9">
+    <block>2001:251::/32</block>
+    <num>/32</num>
+    <descr>CERNET IPv6CJ</descr>
+  </ipv6block>
+  <ipv6block id="10">
+    <block>2001:e08::/32</block>
+    <num>/32</num>
+    <descr>CHINA RAILWAY TELECOMMUNICATIONS CENTER</descr>
+  </ipv6block>
+  <ipv6block id="11">
+    <block>2001:e18::/32</block>
+    <num>/32</num>
+    <descr>CNCGROUP</descr>
+  </ipv6block>
+  <ipv6block id="12">
+    <block>2001:e80::/32</block>
+    <num>/32</num>
+    <descr>China Mobile Communications Corporation</descr>
+  </ipv6block>
+  <ipv6block id="13">
+    <block>2001:e88::/32</block>
+    <num>/32</num>
+    <descr>China United Network Communications Corporation Limited</descr>
+  </ipv6block>
+  <ipv6block id="14">
+    <block>2001:f38::/32</block>
+    <num>/32</num>
+    <descr>China International Electronic Commerce Cernter</descr>
+  </ipv6block>
+  <ipv6block id="15">
+    <block>2001:dc7::/32</block>
+    <num>/32</num>
+    <descr>China Internet Network Information Center</descr>
+  </ipv6block>
+  <ipv6block id="16">
+    <block>2001:f88::/32</block>
+    <num>/32</num>
+    <descr>Chongqing Broadband Network</descr>
+  </ipv6block>
+  <ipv6block id="17">
+    <block>2001:da9::/32</block>
+    <num>/32</num>
+    <descr>China Ministry of Science and Technology</descr>
+  </ipv6block>
+  <ipv6block id="18">
+    <block>2001:daa::/32</block>
+    <num>/32</num>
+    <descr>Natural Science Foundation of China Network (NSFCNET)</descr>
+  </ipv6block>
+  <ipv6block id="19">
+    <block>2001:256::/32</block>
+    <num>/32</num>
+    <descr>CERNET 863 3TNET Terabit Regional Network (CERNET-3TN)</descr>
+  </ipv6block>
+  <ipv6block id="20">
+    <block>2001:4438::/32</block>
+    <num>/32</num>
+    <descr>Beijing Teletron Telecom Engineering Co., Ltd</descr>
+  </ipv6block>
+  <ipv6block id="21">
+    <block>2001:254::/32</block>
+    <num>/32</num>
+    <descr>Trans-Eurasia Information Network (TEIN2)</descr>
+  </ipv6block>
+  <ipv6block id="22">
+    <block>2001:4510::/29</block>
+    <num>/29</num>
+    <descr>Beijing ShenZhou Greatwall</descr>
+  </ipv6block>
+  <ipv6block id="23">
+    <block>2001:7fa:10::/48</block>
+    <num>/48</num>
+    <descr>CHINANET CNGI IPv6 Internet Exchange Center in ShangHai</descr>
+  </ipv6block>
+  <ipv6block id="24">
+    <block>2404:158::/32</block>
+    <num>/32</num>
+    <descr>DongGuan BOLU TELECOM SCIENCE&amp;TECHNOLOGY CORPORATINOLTD</descr>
+  </ipv6block>
+  <ipv6block id="25">
+    <block>2001:252::/32</block>
+    <num>/32</num>
+    <descr>CNGI International Gateway Network (CNGIIGN)</descr>
+  </ipv6block>
+  <ipv6block id="26">
+    <block>2402:2000::/32</block>
+    <num>/32</num>
+    <descr>China University Internet Test Environment Project (CUTE)</descr>
+  </ipv6block>
+  <ipv6block id="27">
+    <block>2405:e000::/32</block>
+    <num>/32</num>
+    <descr>HICHINA webhosting network</descr>
+  </ipv6block>
+  <ipv6block id="28">
+    <block>2402:1000::/32</block>
+    <num>/32</num>
+    <descr>Beijing Software Industry Productivity Center</descr>
+  </ipv6block>
+  <ipv6block id="29">
+    <block>2401:1000::/32</block>
+    <num>/32</num>
+    <descr>CITIC Group Management Information Department</descr>
+  </ipv6block>
+  <ipv6block id="30">
+    <block>2402:f000::/32</block>
+    <num>/32</num>
+    <descr>Tsinghua University</descr>
+  </ipv6block>
+  <ipv6block id="31">
+    <block>2401:800::/32</block>
+    <num>/32</num>
+    <descr>Oriental Cable Network Co., Ltd.</descr>
+  </ipv6block>
+  <ipv6block id="32">
+    <block>2401:3800::/32</block>
+    <num>/32</num>
+    <descr>Beijing Gu Xiang Information Technology Co.,Ltd.</descr>
+  </ipv6block>
+  <ipv6block id="33">
+    <block>2402:8800::/32</block>
+    <num>/32</num>
+    <descr>The major data-network lab of China Telecom with tens of high-end routers and switches.</descr>
+  </ipv6block>
+  <ipv6block id="34">
+    <block>240c::/28</block>
+    <num>/28</num>
+    <descr>BII Group Holding Ltd.</descr>
+  </ipv6block>
+  <ipv6block id="35">
+    <block>2403:800::/31</block>
+    <num>/31</num>
+    <descr>China Southern Power Grid Co.,Ltd.</descr>
+  </ipv6block>
+  <ipv6block id="36">
+    <block>2403:f800::/32</block>
+    <num>/32</num>
+    <descr>Greatwall Broadband Network Co.Ltd</descr>
+  </ipv6block>
+  <ipv6block id="37">
+    <block>2400:6000::/32</block>
+    <num>/32</num>
+    <descr>SCUT IPv6 Campus Network</descr>
+  </ipv6block>
+  <ipv6block id="38">
+    <block>2404:6000::/32</block>
+    <num>/32</num>
+    <descr>Hangzhou Silk Road Information Technologies Co.,Ltd.</descr>
+  </ipv6block>
+  <ipv6block id="39">
+    <block>2404:a000::/32</block>
+    <num>/32</num>
+    <descr>Pingdingshan Coal(Group) Co.Ltd</descr>
+  </ipv6block>
+  <ipv6block id="40">
+    <block>2407:e800::/32</block>
+    <num>/32</num>
+    <descr>XINHUA NEWS AGENCY</descr>
+  </ipv6block>
+  <ipv6block id="41">
+    <block>2400:5400::/32</block>
+    <num>/32</num>
+    <descr>Beijing Founder Broadband Network Technology Co.,Ltd</descr>
+  </ipv6block>
+  <ipv6block id="42">
+    <block>2401:b400::/32</block>
+    <num>/32</num>
+    <descr>CONAC (China Organizational Name Administration Center)</descr>
+  </ipv6block>
+  <ipv6block id="43">
+    <block>2401:cc00::/32</block>
+    <num>/32</num>
+    <descr>Shandong University</descr>
+  </ipv6block>
+  <ipv6block id="44">
+    <block>2401:ec00::/32</block>
+    <num>/32</num>
+    <descr>Renmin University of China</descr>
+  </ipv6block>
+  <ipv6block id="45">
+    <block>2402:3c00::/32</block>
+    <num>/32</num>
+    <descr>FibrLINK Communications Co., Ltd.</descr>
+  </ipv6block>
+  <ipv6block id="46">
+    <block>2001:dd8:1::/48</block>
+    <num>/48</num>
+    <descr>China Internet Network Information Center</descr>
+  </ipv6block>
+  <ipv6block id="47">
+    <block>2403:8c00::/32</block>
+    <num>/32</num>
+    <descr>Jilin University</descr>
+  </ipv6block>
+  <ipv6block id="48">
+    <block>2403:ac00::/32</block>
+    <num>/32</num>
+    <descr>Tianjin University</descr>
+  </ipv6block>
+  <ipv6block id="49">
+    <block>2403:b400::/32</block>
+    <num>/32</num>
+    <descr>CiboNet Limited</descr>
+  </ipv6block>
+  <ipv6block id="50">
+    <block>2403:d400::/32</block>
+    <num>/32</num>
+    <descr>Shanghai JiaoTong University</descr>
+  </ipv6block>
+  <ipv6block id="51">
+    <block>2406:dc00::/32</block>
+    <num>/32</num>
+    <descr>ShenZhen TC telecom Network Corp.</descr>
+  </ipv6block>
+  <ipv6block id="52">
+    <block>2001:dd8:5::/48</block>
+    <num>/48</num>
+    <descr>Internet Systems Consortium</descr>
+  </ipv6block>
+  <ipv6block id="53">
+    <block>2407:bc00::/32</block>
+    <num>/32</num>
+    <descr>Alisoft (Shanghai) Co., Ltd.</descr>
+  </ipv6block>
+  <ipv6block id="54">
+    <block>2407:c400::/32</block>
+    <num>/32</num>
+    <descr>FuJian Internet Communications Co.,LTD.</descr>
+  </ipv6block>
+  <ipv6block id="55">
+    <block>2400:3200::/32</block>
+    <num>/32</num>
+    <descr>Hangzhou Koukouxiangchuan Network Technology Co., Ltd.</descr>
+  </ipv6block>
+  <ipv6block id="56">
+    <block>2400:3600::/32</block>
+    <num>/32</num>
+    <descr>CITIC Networks Management Co.,Ltd.</descr>
+  </ipv6block>
+  <ipv6block id="57">
+    <block>2400:3a00::/32</block>
+    <num>/32</num>
+    <descr>Shanghai FeiTong Network Solutions Tech.Co.Ltd</descr>
+  </ipv6block>
+  <ipv6block id="58">
+    <block>2400:3e00::/32</block>
+    <num>/32</num>
+    <descr>HP-Telecom Network technology Ltd.</descr>
+  </ipv6block>
+  <ipv6block id="59">
+    <block>2400:4600::/32</block>
+    <num>/32</num>
+    <descr>China Satellite Navigation and Communication Co.Ltd</descr>
+  </ipv6block>
+  <ipv6block id="60">
+    <block>2400:4e00::/32</block>
+    <num>/32</num>
+    <descr>World Crossing Telecom(GuangZhou) Ltd.</descr>
+  </ipv6block>
+  <ipv6block id="61">
+    <block>2400:5600::/32</block>
+    <num>/32</num>
+    <descr>Communication Science And Technology Co., Ltd.</descr>
+  </ipv6block>
+  <ipv6block id="62">
+    <block>2400:5a00::/32</block>
+    <num>/32</num>
+    <descr>Data Management Centre National Bureau of Statistics of China</descr>
+  </ipv6block>
+  <ipv6block id="63">
+    <block>2400:6200::/32</block>
+    <num>/32</num>
+    <descr>Airway Communication Holdings Limited</descr>
+  </ipv6block>
+  <ipv6block id="64">
+    <block>2400:6600::/32</block>
+    <num>/32</num>
+    <descr>MinHang Broadcast &amp; Television Technology Development Co. Ltd</descr>
+  </ipv6block>
+  <ipv6block id="65">
+    <block>2400:6a00::/32</block>
+    <num>/32</num>
+    <descr>Shanghai SVA Group Co., Ltd.</descr>
+  </ipv6block>
+  <ipv6block id="66">
+    <block>2400:6e00::/32</block>
+    <num>/32</num>
+    <descr>Beijing BoShengTuo Network Technology Co,Ltd.</descr>
+  </ipv6block>
+  <ipv6block id="67">
+    <block>2400:7200::/32</block>
+    <num>/32</num>
+    <descr>Zhongyuan Petroleum Explore Bureau Communication Company</descr>
+  </ipv6block>
+  <ipv6block id="68">
+    <block>2400:8200::/32</block>
+    <num>/32</num>
+    <descr>Shanghai Information Network Co.,Ltd.</descr>
+  </ipv6block>
+  <ipv6block id="69">
+    <block>2400:8600::/32</block>
+    <num>/32</num>
+    <descr>Beijing Sunway Xunteng Technology Development Co.,Ltd</descr>
+  </ipv6block>
+  <ipv6block id="70">
+    <block>2400:8e00::/32</block>
+    <num>/32</num>
+    <descr>LiaoHe Oilfield Telecommunication Company</descr>
+  </ipv6block>
+  <ipv6block id="71">
+    <block>2400:9600::/32</block>
+    <num>/32</num>
+    <descr>Shanghai DMT Information Network cor.,LTD.</descr>
+  </ipv6block>
+  <ipv6block id="72">
+    <block>2400:9a00::/32</block>
+    <num>/32</num>
+    <descr>XinNet Technology Corp.</descr>
+  </ipv6block>
+  <ipv6block id="73">
+    <block>2400:9e00::/32</block>
+    <num>/32</num>
+    <descr>Beijing Gao Hua Securities Company Limited</descr>
+  </ipv6block>
+  <ipv6block id="74">
+    <block>2400:ae00::/32</block>
+    <num>/32</num>
+    <descr>Union Life Insurance Co.,Ltd.</descr>
+  </ipv6block>
+  <ipv6block id="75">
+    <block>2400:b200::/32</block>
+    <num>/32</num>
+    <descr>Alipay.com Co., Ltd.</descr>
+  </ipv6block>
+  <ipv6block id="76">
+    <block>2400:b600::/32</block>
+    <num>/32</num>
+    <descr>Network Information Center of University of Science</descr>
+  </ipv6block>
+  <ipv6block id="77">
+    <block>2400:ba00::/32</block>
+    <num>/32</num>
+    <descr>Shanghai Bennalong Network Technology Co.,LTD</descr>
+  </ipv6block>
+  <ipv6block id="78">
+    <block>2400:be00::/32</block>
+    <num>/32</num>
+    <descr>BEIJING ZHONGGUANCUN SOFTWARE PARK DEVELOPMENT CO.,Ltd.</descr>
+  </ipv6block>
+  <ipv6block id="79">
+    <block>2400:c200::/32</block>
+    <num>/32</num>
+    <descr>Golden-Bridge Netcom communication Co.,LTD.</descr>
+  </ipv6block>
+  <ipv6block id="80">
+    <block>2400:ce00::/32</block>
+    <num>/32</num>
+    <descr>Chengdu Information Harbor Co., Ltd.</descr>
+  </ipv6block>
+  <ipv6block id="81">
+    <block>2400:d200::/32</block>
+    <num>/32</num>
+    <descr>China Motion Network Communication</descr>
+  </ipv6block>
+  <ipv6block id="82">
+    <block>2400:d600::/32</block>
+    <num>/32</num>
+    <descr>Beijing HeJu ShuZi Telecom Engineering Co.Ltd.</descr>
+  </ipv6block>
+  <ipv6block id="83">
+    <block>2400:da00::/32</block>
+    <num>/32</num>
+    <descr>Beijing Baidu Netcom Science and Technology Co., Ltd.</descr>
+  </ipv6block>
+  <ipv6block id="84">
+    <block>2400:de00::/32</block>
+    <num>/32</num>
+    <descr>China Cable Network Co.ltd Wenzhou Branch</descr>
+  </ipv6block>
+  <ipv6block id="85">
+    <block>2400:ee00::/32</block>
+    <num>/32</num>
+    <descr>ShenZhen Topway Video Communication Co. Ltd.</descr>
+  </ipv6block>
+  <ipv6block id="86">
+    <block>2400:fe00::/32</block>
+    <num>/32</num>
+    <descr>Daqing Zhongji Petroleum Communication Construction Co.,Ltd.</descr>
+  </ipv6block>
+  <ipv6block id="87">
+    <block>2401:1200::/32</block>
+    <num>/32</num>
+    <descr>Sichuan Yilong Broadcast Television Network Company</descr>
+  </ipv6block>
+  <ipv6block id="88">
+    <block>2401:e00::/32</block>
+    <num>/32</num>
+    <descr>eTrunk Network Telecomunication Ltd. Guangzhou.</descr>
+  </ipv6block>
+  <ipv6block id="89">
+    <block>2401:1e00::/32</block>
+    <num>/32</num>
+    <descr>Anhui Provincial Education Department</descr>
+  </ipv6block>
+  <ipv6block id="90">
+    <block>2401:2600::/32</block>
+    <num>/32</num>
+    <descr>Zhan Jiang Wan Tong Co.,Ltd.</descr>
+  </ipv6block>
+  <ipv6block id="91">
+    <block>2401:2a00::/32</block>
+    <num>/32</num>
+    <descr>Pacnet Business Solutions LTD</descr>
+  </ipv6block>
+  <ipv6block id="92">
+    <block>2401:2e00::/32</block>
+    <num>/32</num>
+    <descr>Alibaba (China) Technology Co., Ltd.</descr>
+  </ipv6block>
+  <ipv6block id="93">
+    <block>2401:3a00::/32</block>
+    <num>/32</num>
+    <descr>HuaBei Oil Communication CO. Information Center</descr>
+  </ipv6block>
+  <ipv6block id="94">
+    <block>2401:7a00::/32</block>
+    <num>/32</num>
+    <descr>Ping An Technology(Shenzhen) Co., LTD.</descr>
+  </ipv6block>
+  <ipv6block id="95">
+    <block>2401:7e00::/32</block>
+    <num>/32</num>
+    <descr>ChongQing Broadcast &amp; TV Broadband IP MAN</descr>
+  </ipv6block>
+  <ipv6block id="96">
+    <block>2401:8200::/32</block>
+    <num>/32</num>
+    <descr>CHINA HUADIAN CORPORTATION</descr>
+  </ipv6block>
+  <ipv6block id="97">
+    <block>2401:8600::/32</block>
+    <num>/32</num>
+    <descr>Shanghai Chenyi Network Technology Co.,Ltd</descr>
+  </ipv6block>
+  <ipv6block id="98">
+    <block>2401:9600::/32</block>
+    <num>/32</num>
+    <descr>SHENZHEN NOVA TECHNOLOGIES DEVELOPMENT.,LTD.</descr>
+  </ipv6block>
+  <ipv6block id="99">
+    <block>2401:9a00::/32</block>
+    <num>/32</num>
+    <descr>Broadband IP Network based DWDM</descr>
+  </ipv6block>
+  <ipv6block id="100">
+    <block>2401:aa00::/32</block>
+    <num>/32</num>
+    <descr>Beijing Neteon Tech Co, Ltd.</descr>
+  </ipv6block>
+  <ipv6block id="101">
+    <block>2401:b600::/32</block>
+    <num>/32</num>
+    <descr>Shanghai Highway Information Technology Co.,Ltd</descr>
+  </ipv6block>
+  <ipv6block id="102">
+    <block>2401:ba00::/32</block>
+    <num>/32</num>
+    <descr>CNISP Union IPv6 Deployment Program</descr>
+  </ipv6block>
+  <ipv6block id="103">
+    <block>2401:be00::/32</block>
+    <num>/32</num>
+    <descr>CNISP Union IPv6 Deployment Program</descr>
+  </ipv6block>
+  <ipv6block id="104">
+    <block>2401:c200::/32</block>
+    <num>/32</num>
+    <descr>CNISP Union IPv6 Deployment Program</descr>
+  </ipv6block>
+  <ipv6block id="105">
+    <block>2401:c600::/32</block>
+    <num>/32</num>
+    <descr>CNISP Union IPv6 Deployment Program</descr>
+  </ipv6block>
+  <ipv6block id="106">
+    <block>2401:ca00::/32</block>
+    <num>/32</num>
+    <descr>TIANJIN BROADCAST &amp; TV NETWORK CO. LTD</descr>
+  </ipv6block>
+  <ipv6block id="107">
+    <block>2401:ce00::/32</block>
+    <num>/32</num>
+    <descr>WASU Media &amp; Communication Co.,Ltd.</descr>
+  </ipv6block>
+  <ipv6block id="108">
+    <block>2401:da00::/32</block>
+    <num>/32</num>
+    <descr>Beijing Wintimes Telecom Technology Co,Ltd.</descr>
+  </ipv6block>
+  <ipv6block id="109">
+    <block>2401:de00::/32</block>
+    <num>/32</num>
+    <descr>Institute of High Energy Physics,CAS</descr>
+  </ipv6block>
+  <ipv6block id="110">
+    <block>2402:1600::/32</block>
+    <num>/32</num>
+    <descr>Beijing Online Communication Technology Limted</descr>
+  </ipv6block>
+  <ipv6block id="111">
+    <block>2402:e00::/32</block>
+    <num>/32</num>
+    <descr>Shanghai Xinjue Information and Technology Co.Ltd.</descr>
+  </ipv6block>
+  <ipv6block id="112">
+    <block>2402:2a00::/32</block>
+    <num>/32</num>
+    <descr>Shandong Information Center</descr>
+  </ipv6block>
+  <ipv6block id="113">
+    <block>2402:3e00::/32</block>
+    <num>/32</num>
+    <descr>Hubei Chutian Shitong Network Co., Ltd</descr>
+  </ipv6block>
+  <ipv6block id="114">
+    <block>2402:4a00::/32</block>
+    <num>/32</num>
+    <descr>Shanghai OneTong Com. Ltd.</descr>
+  </ipv6block>
+  <ipv6block id="115">
+    <block>2402:4e00::/32</block>
+    <num>/32</num>
+    <descr>Shenzhen Tencent Computer Systems Company Limited</descr>
+  </ipv6block>
+  <ipv6block id="116">
+    <block>2402:5e00::/32</block>
+    <num>/32</num>
+    <descr>Beijing XiRang Media Cultural Co., Ltd.</descr>
+  </ipv6block>
+  <ipv6block id="117">
+    <block>2402:6a00::/32</block>
+    <num>/32</num>
+    <descr>Beijing Topnew Info&amp;Tech co,.LTD.</descr>
+  </ipv6block>
+  <ipv6block id="118">
+    <block>2402:6e00::/32</block>
+    <num>/32</num>
+    <descr>BeiJing Sincerity-times Network Technology Project Ltd.</descr>
+  </ipv6block>
+  <ipv6block id="119">
+    <block>240e::/24</block>
+    <num>/24</num>
+    <descr>Chinatelecom networks with tens of high-end routers and switches</descr>
+  </ipv6block>
+  <ipv6block id="120">
+    <block>2402:a200::/32</block>
+    <num>/32</num>
+    <descr>China Cultural Heritage Information and Consulting Center</descr>
+  </ipv6block>
+  <ipv6block id="121">
+    <block>2402:ae00::/32</block>
+    <num>/32</num>
+    <descr>GuangDong Highway BroadBand Network Service Venter</descr>
+  </ipv6block>
+  <ipv6block id="122">
+    <block>2402:b200::/32</block>
+    <num>/32</num>
+    <descr>Beijing 263 network group.</descr>
+  </ipv6block>
+  <ipv6block id="123">
+    <block>2401:a00::/32</block>
+    <num>/32</num>
+    <descr>Kingdom-Union Technology (Beijing) Co.Ltd</descr>
+  </ipv6block>
+  <ipv6block id="124">
+    <block>2403:600::/32</block>
+    <num>/32</num>
+    <descr>China Cable Television Network Co.,LTD</descr>
+  </ipv6block>
+  <ipv6block id="125">
+    <block>2403:2a00::/32</block>
+    <num>/32</num>
+    <descr>CECT-CHINACOMM COMMUNICATIONS Co.,Ltd.</descr>
+  </ipv6block>
+  <ipv6block id="126">
+    <block>2403:6a00::/32</block>
+    <num>/32</num>
+    <descr>(CPIP)Beijing Information Highway Corp</descr>
+  </ipv6block>
+  <ipv6block id="127">
+    <block>2403:a200::/32</block>
+    <num>/32</num>
+    <descr>Abitcool(China) Inc.</descr>
+  </ipv6block>
+  <ipv6block id="128">
+    <block>2404:7600::/32</block>
+    <num>/32</num>
+    <descr>Shanghai Data Solution Co., Ltd.</descr>
+  </ipv6block>
+  <ipv6block id="129">
+    <block>2405:6200::/32</block>
+    <num>/32</num>
+    <descr>Coca-Cola Industries Management (Shanghai) Co., Ltd</descr>
+  </ipv6block>
+  <ipv6block id="130">
+    <block>2405:9e00::/32</block>
+    <num>/32</num>
+    <descr>ZHUHAI CABLE TV BROADBAND NETWORK</descr>
+  </ipv6block>
+  <ipv6block id="131">
+    <block>2001:dd8:1a::/48</block>
+    <num>/48</num>
+    <descr>Internet Systems Consortium</descr>
+  </ipv6block>
+  <ipv6block id="132">
+    <block>2405:e600::/32</block>
+    <num>/32</num>
+    <descr>Shanxi Broadcast&amp;Television Monitoring Center</descr>
+  </ipv6block>
+  <ipv6block id="133">
+    <block>2406:9200::/32</block>
+    <num>/32</num>
+    <descr>Easynet China</descr>
+  </ipv6block>
+  <ipv6block id="134">
+    <block>2407:ba00::/32</block>
+    <num>/32</num>
+    <descr>Beijing JinFeng Technology Co.,Ltd.</descr>
+  </ipv6block>
+  <ipv6block id="135">
+    <block>2400:7100::/32</block>
+    <num>/32</num>
+    <descr>Hebei Broadcasting＆TV Information Network Corp.，Ltd</descr>
+  </ipv6block>
+  <ipv6block id="136">
+    <block>2400:8f00::/32</block>
+    <num>/32</num>
+    <descr>CCTV international network Co., LTD</descr>
+  </ipv6block>
+  <ipv6block id="137">
+    <block>2400:a900::/32</block>
+    <num>/32</num>
+    <descr>Beijing Wintop Information Technology Co.,Ltd</descr>
+  </ipv6block>
+  <ipv6block id="138">
+    <block>2400:b500::/32</block>
+    <num>/32</num>
+    <descr>Beijing Bluetomedia Co.LTD.</descr>
+  </ipv6block>
+  <ipv6block id="139">
+    <block>2400:b700::/32</block>
+    <num>/32</num>
+    <descr>Beijing flash newsletter cas telecommunication technologyCo., LTD</descr>
+  </ipv6block>
+  <ipv6block id="140">
+    <block>2400:bf00::/32</block>
+    <num>/32</num>
+    <descr>Qingdao Cable TV Network Center</descr>
+  </ipv6block>
+  <ipv6block id="141">
+    <block>2400:d100::/32</block>
+    <num>/32</num>
+    <descr>China Central Television</descr>
+  </ipv6block>
+  <ipv6block id="142">
+    <block>2400:d300::/32</block>
+    <num>/32</num>
+    <descr>qinhuangdao yanda-zhengyang electroni co.ltd</descr>
+  </ipv6block>
+  <ipv6block id="143">
+    <block>2400:dd00::/28</block>
+    <num>/28</num>
+    <descr>CHINA SCIENCE AND TECHNOLOGY NETWORK</descr>
+  </ipv6block>
+  <ipv6block id="144">
+    <block>2401:3100::/32</block>
+    <num>/32</num>
+    <descr>Dalian Hutong Technology Development Co., Ltd</descr>
+  </ipv6block>
+  <ipv6block id="145">
+    <block>2401:4b00::/32</block>
+    <num>/32</num>
+    <descr>Shanda Computer (Shanghai) Co., Ltd.</descr>
+  </ipv6block>
+  <ipv6block id="146">
+    <block>2401:7700::/32</block>
+    <num>/32</num>
+    <descr>SiChuan Broadcasting &amp; TV Net Co.,LTD</descr>
+  </ipv6block>
+  <ipv6block id="147">
+    <block>2408:8000::/22</block>
+    <num>/22</num>
+    <descr>China Unicom</descr>
+  </ipv6block>
+  <ipv6block id="148">
+    <block>2401:8d00::/32</block>
+    <num>/32</num>
+    <descr>KNET Techonlogy (BeiJing) Co.,Ltd.</descr>
+  </ipv6block>
+  <ipv6block id="149">
+    <block>2409:8000::/20</block>
+    <num>/20</num>
+    <descr>China Mobile Communications Corporation</descr>
+  </ipv6block>
+  <ipv6block id="150">
+    <block>2401:f300::/32</block>
+    <num>/32</num>
+    <descr>lin an tian jian Computer Network Co., Ltd.</descr>
+  </ipv6block>
+  <ipv6block id="151">
+    <block>2402:2d00::/32</block>
+    <num>/32</num>
+    <descr>TianJin LongChina Network S&amp;T Co.,Ltd.</descr>
+  </ipv6block>
+  <ipv6block id="152">
+    <block>2402:4500::/32</block>
+    <num>/32</num>
+    <descr>Beijing Changdian Zhiyuan Optoelectronics Co.,Ltd</descr>
+  </ipv6block>
+  <ipv6block id="153">
+    <block>2402:5d00::/32</block>
+    <num>/32</num>
+    <descr>China South Locomotive And Rolling Stock Industry (Group) Company</descr>
+  </ipv6block>
+  <ipv6block id="154">
+    <block>2402:7d00::/32</block>
+    <num>/32</num>
+    <descr>Shenzhen Information and Network Center</descr>
+  </ipv6block>
+  <ipv6block id="155">
+    <block>2402:8300::/32</block>
+    <num>/32</num>
+    <descr>Shandong Datong Network Information Co., Ltd</descr>
+  </ipv6block>
+  <ipv6block id="156">
+    <block>2402:8900::/32</block>
+    <num>/32</num>
+    <descr>Worldwide United Network</descr>
+  </ipv6block>
+  <ipv6block id="157">
+    <block>240e:100::/24</block>
+    <num>/24</num>
+    <descr>Chinatelecom networks with tens of high-end routers and switches</descr>
+  </ipv6block>
+  <ipv6block id="158">
+    <block>240e:200::/23</block>
+    <num>/23</num>
+    <descr>Chinatelecom networks with tens of high-end routers and switches</descr>
+  </ipv6block>
+  <ipv6block id="159">
+    <block>240e:400::/22</block>
+    <num>/22</num>
+    <descr>Chinatelecom networks with tens of high-end routers and switches</descr>
+  </ipv6block>
+  <ipv6block id="160">
+    <block>240e:800::/21</block>
+    <num>/21</num>
+    <descr>Chinatelecom networks with tens of high-end routers and switches</descr>
+  </ipv6block>
+  <ipv6block id="161">
+    <block>2402:cf00::/32</block>
+    <num>/32</num>
+    <descr>CloudXP Co., Ltd</descr>
+  </ipv6block>
+  <ipv6block id="162">
+    <block>2402:d300::/32</block>
+    <num>/32</num>
+    <descr>SWL Information Technology Co.,Ltd</descr>
+  </ipv6block>
+  <ipv6block id="163">
+    <block>2001:df0:27e::/48</block>
+    <num>/48</num>
+    <descr>ARRIS Group, Inc</descr>
+  </ipv6block>
+  <ipv6block id="164">
+    <block>2403:700::/32</block>
+    <num>/32</num>
+    <descr>Sony (China) Limited Shanghai Branch</descr>
+  </ipv6block>
+  <ipv6block id="165">
+    <block>2403:f00::/32</block>
+    <num>/32</num>
+    <descr>Anhui Badu Network Technology Co., Ltd</descr>
+  </ipv6block>
+</ipv6blocks>
+
